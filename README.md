@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1 align="center">Hola, soy Jesús 👋</h1>
 </div>
 
